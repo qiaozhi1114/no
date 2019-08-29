@@ -34,7 +34,7 @@ Under the **Repository Name** heading, type: `username.github.io`, where usernam
 
 Once you click **Rename**, your website will automatically be published at: https://your-username.github.io/. The HTML file—called `index.html`—is rendered as the home page and you'll be making changes to this file in the next step.
 
-Congratulations! You just launched your first GitHub Pages website. It's now live to share with the entire world
+gratulations! You just launched your first GitHub Pages website. It's now live to share with the entire world
 
 ## Making your first edit
 
